@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32001183354aab84ab3c2ae87dfc04e7, type: 3}
+  m_Name: AttachmentNodeSettings
+  m_EditorClassIdentifier: 
+  unselectedMaterial: {fileID: 2100000, guid: f743df16e49329c46b853768b14b7a5c, type: 2}
+  selectedMaterial: {fileID: 2100000, guid: 9cae8fad6d35b724c8780f449c48e5c0, type: 2}
+  highlightMaterial: {fileID: 2100000, guid: 9f0a6b91e6552694480a6025d2075131, type: 2}
